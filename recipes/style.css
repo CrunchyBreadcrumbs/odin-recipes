@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(192, 162, 122);
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    list-style-position: inside;
+    margin: 15px;
+}

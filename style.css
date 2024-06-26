@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(192, 162, 122);
+}
+
+.header {
+    font-weight: bold;
+}
+
+
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+ a:hover, a:active {
+    color: antiquewhite;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
